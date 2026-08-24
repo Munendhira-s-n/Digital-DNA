@@ -1,4 +1,6 @@
-```markdown
+
+
+````markdown
 # 🧬 Digital DNA
 
 > An interactive personal analytics project that transforms conversation data into insights about communication patterns, interests, activity, technical behavior, and digital personality.
@@ -9,7 +11,7 @@
 
 **Digital DNA** is a personal data analytics project built from ChatGPT conversation history.
 
-The project transforms raw conversation data into structured analytical features and presents the results through two complementary visualization platforms:
+The project transforms raw conversation data into structured analytical features and presents the results through:
 
 - 📊 **Power BI** — professional BI dashboard for analytical exploration
 - 🖥️ **Streamlit** — interactive Python-based web application
@@ -300,21 +302,12 @@ The Power BI dashboard provides the dedicated BI and analytics experience of the
 
 # 📸 Project Showcase
 
-### 📊 Power BI Dashboard
+The repository includes visual previews of the major project components:
 
-![Power BI Dashboard](screenshots/powerbi-dashboard.png)
-
-### 🖥️ Streamlit Dashboard
-
-![Streamlit Dashboard](screenshots/streamlit-dashboard.png)
-
-### 🧬 Digital DNA Radar
-
-![Digital DNA Radar](screenshots/digital-dna-radar.png)
-
-### 📸 Project Overview
-
-![Project Overview](screenshots/project-overview.png)
+- `screenshots/powerbi-dashboard.png` — Power BI analytics dashboard
+- `screenshots/streamlit-dashboard.png` — Main Streamlit dashboard
+- `screenshots/digital-dna-radar.png` — Digital DNA Radar
+- `screenshots/project-overview.png` — Overall project view
 
 ---
 
@@ -375,3 +368,9 @@ Potential future extensions include:
 B.Tech — Artificial Intelligence & Data Science
 
 ---
+
+## ⭐ Project
+
+If you find this project interesting, consider giving the repository a ⭐ star.
+````
+
