@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🧬 Digital DNA
 
 > An interactive personal analytics project that transforms conversation data into insights about communication patterns, interests, activity, technical behavior, and digital personality.
@@ -372,5 +369,3 @@ B.Tech — Artificial Intelligence & Data Science
 ## ⭐ Project
 
 If you find this project interesting, consider giving the repository a ⭐ star.
-````
-
